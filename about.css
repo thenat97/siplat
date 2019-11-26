@@ -1,0 +1,9 @@
+body{
+  margin-top: 70px;
+  text-align: center;
+}
+@media (min-width: 1200px) {
+  .container{
+    max-width: 970px;
+  }
+}
